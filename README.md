@@ -2,7 +2,7 @@
 ## WHo am I ?
 - :birthday: 19yo young french boy
 - :books: Student at the [Velizy's University](https://www.iut-velizy-rambouillet.uvsq.fr/), <b>learning Networks and Telecoms</b>
-- :bookmark_tabs: Internship at the Ville de Paris administration inasmuch as <b>technical administrator</b>
+- :bookmark_tabs: Internship at the [Ville de Paris administration](https://www.paris.fr/) inasmuch as <b>technical administrator</b>
 - :computer: CTF player, cybersecurity lover, aspiring to become a pentester
 
 - :construction_worker: I’m currently not working on any project, so come and <b>offer it to me!</b> 
