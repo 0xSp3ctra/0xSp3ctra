@@ -5,6 +5,6 @@
 - :bookmark_tabs: Internship at the [Ville de Paris administration](https://www.paris.fr/) inasmuch as <b>technical administrator</b>
 - :computer: CTF player, cybersecurity lover, aspiring to become a pentester
 
-- :construction_worker: I’m currently not working on any project, so come and <b>offer it to me!</b> 
+- :construction_worker: I’m currently working on [pyCISCO](https://github.com/0xSp3ctra/pyCISCO) project, go check it out !
 - :leopard: I’m currently learning <b>Offensive Cybersecurity</b> on [RootMe](https://www.root-me.org/), [TryHackMe](https://tryhackme.com/dashboard), [Hack The Box](https://hackthebox.com/)
 - :mailbox_with_no_mail: How to reach me: colinldu94@protonmail.com, [twitter](https://twitter.com/Spectra0x10001)
