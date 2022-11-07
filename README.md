@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm @0xSp3ctra </br></br>
-## WHo am I ?
+## Who am I ?
 - :birthday: 19yo young french boy
 - :books: Student at the [Velizy's University](https://www.iut-velizy-rambouillet.uvsq.fr/), <b>learning Networks and Telecoms</b>
 - :bookmark_tabs: Internship at the [Ville de Paris administration](https://www.paris.fr/) inasmuch as <b>technical administrator</b>
