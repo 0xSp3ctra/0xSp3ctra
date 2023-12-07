@@ -6,4 +6,3 @@
 - :computer: CTF player, cybersecurity lover, aspiring to become a pentester
 
 - :leopard: I’m currently learning <b>Offensive Cybersecurity</b> on [RootMe](https://www.root-me.org/), [TryHackMe](https://tryhackme.com/dashboard), [Hack The Box](https://hackthebox.com/)
-- :mailbox_with_no_mail: How to reach me: 0xspectra@proton.me, [twitter](https://twitter.com/Spectra0x10001)
